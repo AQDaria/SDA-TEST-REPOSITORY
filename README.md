@@ -3,3 +3,4 @@
 * nauka
 * tekst  
 bez gwiazdki
+*nowa gałaź z pull requestem
